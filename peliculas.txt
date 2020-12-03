@@ -2,4 +2,8 @@ El padrino
 El padrino 2
 El nombre de la rosa
 Indiana Jones y la última cruzada
+<<<<<<< HEAD
 LA SOMBRA DEL VIENTO
+=======
+CLARA Y LA PENUMBRA 
+>>>>>>> desarrollo
